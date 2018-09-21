@@ -1,11 +1,16 @@
 _repo: Wayward-Winifred_54729
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54729-h/images/cover.jpg
 creator:
   author:
     agent_name: Sadlier, Anna T.
     gutenberg_agent_id: '48016'
     url: http://www.gutenberg.org/2009/agents/48016
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54729#Wayward-Winifred
 gutenberg_issued: '2017-05-15'
 gutenberg_type: Text
 identifiers:
